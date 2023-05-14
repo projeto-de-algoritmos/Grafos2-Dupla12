@@ -1,44 +1,32 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos2_Exercicios
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0088257	  |  Guilherme Keyti Cabral Kishimoto |
+| 19/0088745  |  Iago de Paula Cabral |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de exercícios do módulo Grafos 2 da disciplina Projeto de Algoritmos
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 1 - "Network delay time"
+[Clique aqui para acessar o exercício](https://leetcode.com/problems/network-delay-time/description/)<br>
+Leet Code exercício numero 743<br>
+feito em Python3<br>
+**Nível do exercício: Médio**<br>
+
+
+**Uso:**
+Basta copiar o codigo da resolução do repositório e colar no terminal da plataforma  e selecionar a linguagem python3
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+Vale ressaltar que para rodar o código não é necessário instalar a linguagem Python ou usar alguma IDE, basta copiar o código e colar no terminal da plataforma juiz online usado para resolver o exercício
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
