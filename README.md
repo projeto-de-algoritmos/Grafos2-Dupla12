@@ -21,8 +21,8 @@ feito em Python3<br>
 ## Screenshots
 ![ex1 Enunciado](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/Enunciado_1.jpg?raw=true)<br><br>
 Figura 1: Enunciado<br><br>
-![ex 1 com codigo](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/with_code.jpg?raw=true)<br><br>
-Figura 2: Enunciado com codigo<br><br>
+![ex 1 codigo](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/ex1_codigo.jpg?raw=true)<br><br>
+Figura 2: codigo<br><br>
 ![ex1 Codigo aceito](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/aceito.jpg?raw=true)<br><br>
 Figura 3: Solução<br><br>
 
