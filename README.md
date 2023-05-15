@@ -19,6 +19,12 @@ Leet Code exercício numero 743<br>
 feito em Python3<br>
 **Nível do exercício: Médio**<br>
 ## Screenshots
+![ex1 Enunciado](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/Enunciado_1.jpg?raw=true)<br><br>
+Figura 1: Enunciado<br><br>
+![ex 1 com codigo](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/with_code.jpg?raw=true)<br><br>
+Figura 2: Enunciado com codigo<br><br>
+![ex1 Codigo aceito](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/aceito.jpg?raw=true)<br><br>
+Figura 3: Solução<br><br>
 
 ### Exercicio 2 - "Min Cost to Connect All Points"
 [Clique aqui para acessar o exercício](https://leetcode.com/problems/min-cost-to-connect-all-points/)<br>
