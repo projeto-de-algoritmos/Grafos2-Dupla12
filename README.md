@@ -19,6 +19,13 @@ Leet Code exercício numero 743<br>
 feito em Python3<br>
 **Nível do exercício: Médio**<br>
 
+## Screenshots
+### Exercicio 2 - "Min Cost to Connect All Points"
+[Clique aqui para acessar o exercício](https://leetcode.com/problems/min-cost-to-connect-all-points/)<br>
+Leet Code exercício numero 1584<br>
+feito em Python3<br>
+**Nível do exercício: Médio**<br>
+
 
 **Uso:**
 Basta copiar o codigo da resolução do repositório e colar no terminal da plataforma  e selecionar a linguagem python3
