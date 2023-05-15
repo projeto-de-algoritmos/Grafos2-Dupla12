@@ -18,13 +18,20 @@ Resolução de exercícios do módulo Grafos 2 da disciplina Projeto de Algoritm
 Leet Code exercício numero 743<br>
 feito em Python3<br>
 **Nível do exercício: Médio**<br>
-
 ## Screenshots
+
 ### Exercicio 2 - "Min Cost to Connect All Points"
 [Clique aqui para acessar o exercício](https://leetcode.com/problems/min-cost-to-connect-all-points/)<br>
 Leet Code exercício numero 1584<br>
 feito em Python3<br>
 **Nível do exercício: Médio**<br>
+## Screenshots
+![ex2.1](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/ex2.1.png?raw=true)<br><br>
+Figura 1: Enunciado<br><br>
+![ex2.2](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/ex2.2.png?raw=true)<br><br>
+Figura 2: Enunciado<br><br>
+![ex2.3](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/ex2.3.png?raw=true)<br><br>
+Figura 3: Solução<br><br>
 
 
 **Uso:**
