@@ -48,6 +48,8 @@ Figura 3: Solução<br><br>
 Leet Code exercício numero 787<br>
 feito em Python3<br>
 **Nível do exercício: Médio**<br>
+### Link para a resolução do exercicio
+https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/ex3.mp4
 ## Screenshots
 ![ex2.1](https://github.com/projeto-de-algoritmos/Grafos2-Dupla12/blob/master/img/ex3.1.png?raw=true)<br><br>
 Figura 1: Enunciado<br><br>
